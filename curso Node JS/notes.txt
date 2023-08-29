@@ -1,0 +1,5 @@
+X.Y.Z --> Semantic Verisioning
+
+X --> la MAJOR y es cuando se rompe la compatibilidad hacia atras
+Y --> la MINOR y es cuando se añaden nuevas funcionalidades
+Z --> la PATCH y es cuando se arreglan bugs
